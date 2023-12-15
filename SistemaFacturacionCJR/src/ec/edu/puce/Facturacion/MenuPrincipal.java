@@ -118,5 +118,6 @@ public class MenuPrincipal extends JFrame {
 	    } else {
 	        frmListaCliente.toFront();
 	    }
+	    
 	}
 }
